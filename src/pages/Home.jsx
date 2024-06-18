@@ -20,7 +20,7 @@ const Home = () => {
 						</li>
 						<li className="content-list__item">
 							<h2 className="title-2">Инструментарий</h2>
-							<span>Docker, Webpack, ESLint, Jest, Babel, Npm, Yarn, Git, WebStorm, VSCode, Postman, CodePen, Figma, Adobe Photoshop</span>
+							<span>Docker, Webpack, Vite, ESLint, Jest, Babel, Npm, Yarn, Git, WebStorm, VSCode, Postman, CodePen, Figma, Adobe Photoshop</span>
 						</li>
 					</ul>
 				</div>

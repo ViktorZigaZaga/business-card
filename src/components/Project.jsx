@@ -2,7 +2,7 @@ import { NavLink } from 'react-router-dom';
 
 const Project = ({ title, img, index }) => {
 	return (
-		<NavLink to={`/project/${index+1}`}>
+		<NavLink to={`/business-card/project/${index+1}`}>
 			<li className="project">
 				<img src={img} alt={title} className="project__img" />
 				<h3 className="project__title">{title}</h3>
